@@ -2,7 +2,7 @@
 AI-powered relationship companion helping couples stay emotionally connected through adaptive daily activities and intelligent insights.
 💖 Luvelle – AI-Powered Relationship Companion  
 
-> Love grows when connection becomes intentional.  
+ Love grows when connection becomes intentional.  
 
 Luvelle is a full-stack SaaS platform designed to help couples stay emotionally connected through adaptive daily activities, AI-powered relationship insights, and continuous feedback systems.  
 
