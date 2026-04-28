@@ -120,8 +120,10 @@ Gamified couple streak system
 AR memory timelines
 Mobile apps (Android & iOS)
 👥 Team
+
 👩‍💻 Shaik Basheer Unissa
 Team Leader
+
 👩‍💻 Areeba Fatima and Irfana Tabassum
 Team Members
 
